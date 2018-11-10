@@ -1,0 +1,6 @@
+C:\Users\настя\source\repos\Lesson2\HomeWork\bin\Debug\HomeWork.exe.config
+C:\Users\настя\source\repos\Lesson2\HomeWork\bin\Debug\HomeWork.exe
+C:\Users\настя\source\repos\Lesson2\HomeWork\bin\Debug\HomeWork.pdb
+C:\Users\настя\source\repos\Lesson2\HomeWork\obj\Debug\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\настя\source\repos\Lesson2\HomeWork\obj\Debug\HomeWork.exe
+C:\Users\настя\source\repos\Lesson2\HomeWork\obj\Debug\HomeWork.pdb
